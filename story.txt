@@ -1,0 +1,9 @@
+We are going to create an Infinitive runner game where we have a kid named Jake as our main player. The cops are
+after him as he demolished their van from the gateway. We will be having some obstacles in between and jake has
+to cross them successfully withput being caught by the cops. After a certain extent Jake will also come across 
+some boosters and powers like- a magnet for collecting all the coins at the same time. A score multiplyer which 
+doubles up the score etc.
+NPC- Barriers, obstacles, boosters, powers and the trains.
+PC- Jake(main character) and the cops
+The goal of the game is to score as many points as possible and collect as many coins as possible.
+Also after every 1000 points the momentum and speed of the game will increase eventually.
